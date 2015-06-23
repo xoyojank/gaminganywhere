@@ -1,1 +1,1 @@
-../event-posix/sdl12-audio.h
+#include "../event-posix/sdl12-audio.h"

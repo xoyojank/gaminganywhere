@@ -1,1 +1,1 @@
-../event-posix/sdl12-video.h
+#include "../event-posix/sdl12-video.h"

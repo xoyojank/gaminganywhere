@@ -1,0 +1,12 @@
+*.exp
+*.obj
+*.tlog
+*.pdb
+*.ilk
+*.log
+*.idb
+*.opensdf
+*.sdf
+*.suo
+ga/vs2010/Debug/
+ga/vs2010/Release/
